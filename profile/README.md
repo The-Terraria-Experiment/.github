@@ -2,7 +2,8 @@
 
 This organization is a collection of a bunch of different projects related to The Terraria Experiment.
 
-All projects, unless otherwise specified, are licensed under the MIT license, meaning they are free to do pretty much anything you want with.
+All projects under this organization, unless otherwise specified in their own repository, are licensed under the GNU GPL v2 license. 
+That means you can do pretty much anything you want with our code, as long as you keep it open and similarly licensed!
 We hope some of our projects are of use to the general Terraria community.
 
 [Join the Discord](https://discord.gg/JyqQ75Ny) to get involved with the community!
